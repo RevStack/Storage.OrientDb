@@ -1,0 +1,19 @@
+{
+  "name": "RevStack.Storage.OrientDb",
+  "version": "1.0.0",
+  "description": "RevStack Storage Database implementation for OrientDb.",
+  "main": "RevStack.Storage.OrientDb.sln",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RevStack/Storage.OrientDb.git"
+  },
+  "author": "D. Sheets",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RevStack/Storage.OrientDb/issues"
+  },
+  "homepage": "https://github.com/RevStack/Storage.OrientDb"
+}

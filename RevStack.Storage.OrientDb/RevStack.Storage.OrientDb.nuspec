@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>RevStack.Storage.OrientDb</id>
+    <version>1.0.0</version>
+    <title>RevStack.Storage.OrientDb</title>
+    <authors>D. Sheets - MIS Interactive</authors>
+    <owners>D. Sheets, S. Francis</owners>
+    <licenseUrl>https://github.com/RevStack/Storage.OrientDb/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/RevStack/Storage.OrientDb.git</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>RevStack Storage Database implementation for OrientDb.</description>
+    <releaseNotes>Initial release.</releaseNotes>
+    <copyright>Copyright 2016</copyright>
+    <tags>File Management OrientDb RevStack Repository Pattern</tags>
+  </metadata>
+</package>
